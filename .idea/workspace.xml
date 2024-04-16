@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04cc0ea8-0b16-4cb0-b5ef-7d1af2cf5ae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/structural/ProxyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/ChainOfResponsibilityMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,6 +32,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/creative" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -50,13 +51,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProxyMain">
-    <configuration name="CompositeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structural.CompositeMain" />
+  <component name="RunManager" selected="Application.ChainOfResponsibilityMain">
+    <configuration name="ChainOfResponsibilityMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.ChainOfResponsibilityMain" />
       <module name="DesighPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structural.*" />
+          <option name="PATTERN" value="behavioral.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChainOfResponsibilityMain" />
         <item itemvalue="Application.ProxyMain" />
         <item itemvalue="Application.FlyweightMain" />
         <item itemvalue="Application.FacadeMain" />
         <item itemvalue="Application.DecoratorMain" />
-        <item itemvalue="Application.CompositeMain" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713171906349</updated>
       <workItem from="1713171908229" duration="7961000" />
-      <workItem from="1713232440870" duration="15521000" />
+      <workItem from="1713232440870" duration="16590000" />
     </task>
     <task id="LOCAL-00001" summary="空白项目，开始设计模式的创建">
       <created>1713172417055</created>
@@ -244,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713254177758</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="结构型设计模式-代理模式完成">
+      <created>1713255478112</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713255478112</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,6 +315,7 @@
     <MESSAGE value="结构型设计模式-装饰器模式完成" />
     <MESSAGE value="结构型设计模式-外观模式完成" />
     <MESSAGE value="结构型设计模式-享元模式完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="结构型设计模式-享元模式完成" />
+    <MESSAGE value="结构型设计模式-代理模式完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="结构型设计模式-代理模式完成" />
   </component>
 </project>
