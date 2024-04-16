@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04cc0ea8-0b16-4cb0-b5ef-7d1af2cf5ae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/creative/PrototypeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="04cc0ea8-0b16-4cb0-b5ef-7d1af2cf5ae5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713171906349</updated>
       <workItem from="1713171908229" duration="7961000" />
-      <workItem from="1713232440870" duration="1017000" />
+      <workItem from="1713232440870" duration="1283000" />
     </task>
     <task id="LOCAL-00001" summary="空白项目，开始设计模式的创建">
       <created>1713172417055</created>
@@ -174,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713188935631</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="创建型设计模式-原型模式完成">
+      <created>1713233520566</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713233520566</updated>
+    </task>
+    <task id="LOCAL-00007" summary="创建型设计模式-原型模式完成">
+      <created>1713233593203</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713233593203</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +194,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -192,6 +228,11 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="空白项目，开始设计模式的创建" />
@@ -199,6 +240,7 @@
     <MESSAGE value="工厂方法模式可以了，下一个是抽象工厂模式，" />
     <MESSAGE value="抽象工厂模式可以了，下一个是生成器模式" />
     <MESSAGE value="生成器模式完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="生成器模式完成" />
+    <MESSAGE value="创建型设计模式-原型模式完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建型设计模式-原型模式完成" />
   </component>
 </project>
