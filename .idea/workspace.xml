@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04cc0ea8-0b16-4cb0-b5ef-7d1af2cf5ae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavioral/ObserverMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/StateMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObserverMain">
+  <component name="RunManager" selected="Application.StateMain">
     <configuration name="ChainOfResponsibilityMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="behavioral.ChainOfResponsibilityMain" />
       <module name="DesighPattern" />
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProxyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structural.ProxyMain" />
+    <configuration name="StateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.StateMain" />
       <module name="DesighPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structural.*" />
+          <option name="PATTERN" value="behavioral.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StateMain" />
         <item itemvalue="Application.ObserverMain" />
         <item itemvalue="Application.MediatorMain" />
         <item itemvalue="Application.CommandMain" />
         <item itemvalue="Application.ChainOfResponsibilityMain" />
-        <item itemvalue="Application.ProxyMain" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,7 @@
       <updated>1713171906349</updated>
       <workItem from="1713171908229" duration="7961000" />
       <workItem from="1713232440870" duration="17305000" />
-      <workItem from="1713318061120" duration="7487000" />
+      <workItem from="1713318061120" duration="9879000" />
     </task>
     <task id="LOCAL-00001" summary="空白项目，开始设计模式的创建">
       <created>1713172417055</created>
@@ -274,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713328189716</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="行为型设计模式-观察者模式完成">
+      <created>1713333365026</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713333365026</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,6 +348,7 @@
     <MESSAGE value="行为型设计模式-责任链模式完成" />
     <MESSAGE value="行为型设计模式-命令模式完成" />
     <MESSAGE value="行为型设计模式-中介者模式完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="行为型设计模式-中介者模式完成" />
+    <MESSAGE value="行为型设计模式-观察者模式完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="行为型设计模式-观察者模式完成" />
   </component>
 </project>
